@@ -210,6 +210,7 @@
                         <el-option label="bash" value="bash" />
                         <el-option label="csh" value="csh" />
                         <el-option label="zsh" value="zsh" />
+                        <el-option label="sh" value="sh" />
                       </el-select>
                     </el-form-item>
                   </el-col>
